@@ -12,7 +12,7 @@ window.WEDDING = {
   heroImage: "assets/hero.jpg",
   venueImage: "assets/venue.jpg",
   dinnerImage: "assets/dinner.jpg",
-  music: "assets/music.wav",
+  music: "Musical Zafat - زفة موسيقى طلت عروس.mp3",
 
   intro: "بحضوركم تكتمل فرحتنا، ويسعدنا أن تشاركونا أجمل لحظات العمر في حفل زفافنا.",
   welcome: "على أرض الشام، وبين عبق الياسمين ودفء الأحبة، نلتقي لنكتب معكم بداية حكايتنا.",
